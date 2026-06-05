@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "End-to-end job-hunt pipeline: analyze a resume, source matching jobs across India & Germany, analyze JDs, and generate ATS-optimized resume + tailored cover letters. Bundles 6 specialist subagents orchestrated in sequence.",
   "author": {
-    "name": "S. Karthik"
+    "name": "Jordan Doe",
+    "email": "jordan.doe@example.com"
   },
   "keywords": ["resume", "ats", "job-search", "india", "germany", "cover-letter", "devsecops", "pipeline"],
   "commands": "./commands",

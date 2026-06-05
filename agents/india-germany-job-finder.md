@@ -32,7 +32,7 @@ Return ONE merged, sortable table, grouped by country, sorted by posted date (ne
 | Country | Role | Company | About company & their solution/project (1–2 line summary) | Location | Posted | Match % | Key matched skills | Visa/sponsorship & language note | Recruiter / contact email | Apply URL |
 
 Column rules:
-- **About company & their solution/project** — a short (1–2 sentence) summary of what the company does and the specific product/project/practice the role sits in (e.g. "Temenos — composable core-banking SaaS; role sits in the cloud SRE practice running Transact on Azure").
+- **About company & their solution/project** — a short (1–2 sentence) summary of what the company does and the specific product/project/practice the role sits in (e.g. "Acme Cloud — SaaS data-platform vendor; role sits in the SRE practice running their analytics product on Kubernetes").
 - **Match %** — computed against the resume (skills + seniority + domain overlap). Mark the strongest matches.
 - **Recruiter / contact email** — include ONLY if a real, verifiable email is found on the posting/company careers page. If none is discoverable, write "Not listed — apply via portal" and the careers/HR page URL. NEVER invent or guess an email address.
 - **Apply URL** — the direct application link (deep link to the posting; fall back to the company careers page if the exact posting URL isn't resolvable).
