@@ -41,3 +41,11 @@ Then invoke `/run-pipeline <resume-path>`.
 
 ## Requirements
 - Python with `python-docx` (for .docx generation), or Microsoft Word (COM fallback).
+
+---
+
+## Projects
+
+| Folder | Description |
+|--------|-------------|
+| [`german-school-system/`](german-school-system/) | Plain-language guide to the German school system, universities & top Gymnasiums near Heinickestraße, Essen |
